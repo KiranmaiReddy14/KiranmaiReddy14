@@ -1,28 +1,21 @@
-# Hi there, I'm Kiranmai, a Software Engineer 👋 
+<h1 align="center">Hi 👋, I'm Kiranmai</h1>
+<h3 align="center">A passionate Software Engineer</h3>
 
-## 🚀 Projects
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranmaireddy14&label=Profile%20views&color=0e75b6&style=flat" alt="kiranmaireddy14" /> </p>
 
-### 1. [TweetConnect - A Tweeting Application](https://github.com/KiranmaiReddy14/My-Workspace/tree/main/TweetApp)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiranmaireddy14" alt="kiranmaireddy14" /></a> </p>
 
-A full-stack application inspired by Twitter for secure user sign-in, tweet posting, and deletion.
+- 🔭 I’m currently working on [TweetApp](https://github.com/KiranmaiReddy14/My-Workspace/tree/main/TweetApp)
 
-**Tech Used**: Angular, Java, Spring Boot, MongoDB, Spring Security
+- 📝 I regularly write articles on [https://medium.com/@kiranmai_reddy](https://medium.com/@kiranmai_reddy)
 
-### 2. [MediRefill Portal](https://github.com/KiranmaiReddy14/My-Workspace/tree/main/webportal)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/https://leetcode.com/u/kiranmai_reddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kiranmai_reddy/" height="30" width="40" /></a>
+</p>
 
-A web portal for browsing and refilling prescriptions, designed with a user-friendly interface for easy navigation and ordering.
+<h3 align="left">Languages and Tools:</h3>
 
-**Tech Used**: Java, Spring Framework, Spring Boot, Spring Security, JSP
-
-### 3. [ToDoList Application](https://github.com/KiranmaiReddy14/My-Workspace/tree/main/ToDoList_Application)
-
-A simple to-do list application for managing tasks with features like adding, editing, and deleting tasks.
-
-**Tech Used**: Java, Spring Boot, Thymeleaf, MySQL
-
----
-
-## 🌟 My Expertise  
 **Backend Development:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)  
 
@@ -44,9 +37,5 @@ A simple to-do list application for managing tasks with features like adding, ed
 **Code Quality & Automation:**  
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)  ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)  
 
----
 
-
-## 📊 My GitHub Stats:  
-![Kiranmai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranmaiReddy14&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranmaiReddy14&layout=compact&theme=radical)  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranmaireddy14&show_icons=true&locale=en&layout=compact" alt="kiranmaireddy14" /></p>
